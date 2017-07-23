@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // 組件的一般資訊是由下列的屬性集控制。
 // 變更這些屬性的值即可修改組件的相關
 // 資訊。
-[assembly: AssemblyTitle("FO4ConsoleCracker")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("FO4 Console Cracker")]
+[assembly: AssemblyDescription("FO4 Console Cracker")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("omi24")]
 [assembly: AssemblyProduct("FO4ConsoleCracker")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright Zak Fong @ omi24 ©  2017")]
+[assembly: AssemblyTrademark("omi24")]
 [assembly: AssemblyCulture("")]
 
 // 將 ComVisible 設為 false 可對 COM 元件隱藏
