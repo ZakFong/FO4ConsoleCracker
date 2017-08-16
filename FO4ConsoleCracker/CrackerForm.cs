@@ -89,7 +89,7 @@ namespace Omi24.Project.Fallout4
                     if 
                     (
                         (guess.CorrectCount == 0 && mappedCount > 0)
-                        || (guess.CorrectCount > 1 && mappedCount == 0)
+                        || (guess.CorrectCount >= 1 && mappedCount == 0)
                         || (word == guess.Word && guess.CorrectCount != word.Length)
                     )
                     {
